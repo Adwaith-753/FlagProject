@@ -419,3 +419,43 @@
     position: relative;
     background-color: #000000;
 }
+
+/* Flag of Red Peak */
+.flag_redpeak {
+  width: 150px;
+  height: 100px;
+  background-color: #FFFFFF;
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+.flag_redpeak > .left{
+       border-left: 0px solid transparent;
+    border-right: 75px solid transparent;
+    border-top: 75px solid #000000;
+    position: relative;
+    top: 0px;
+    width: 0px;
+    left: 0%;
+}
+
+.flag_redpeak > .right{
+    border-left: 75px solid transparent;
+    border-right: 0px solid transparent;
+    border-top: 75px solid #0057B7;
+    position: relative;
+    top: -75px;
+    width: 0px;
+    left: 50%;
+}
+
+.flag_redpeak > .bottom{
+     border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 60px solid #D50000;
+    position: relative;
+    top: -110px;
+    width: 0px;
+    left: 12%;
+}
