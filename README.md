@@ -1,6 +1,6 @@
 # 🌍 World Flags in Pure HTML & CSS
 
-## About This Project
+## 📘 About This Project
 
 A collection of world flags recreated entirely with HTML and CSS — no images, no SVGs, no external assets.
 This project explores layout, geometry, and design by building accurate flag representations using only code.
@@ -22,3 +22,9 @@ You can view the live demo here:
 
 - HTML
 - CSS
+
+## 🚀 Future Improvements (optional section)
+- More flags
+- Dark mode
+- Interactive flag selection
+- Separate CSS files per flag
